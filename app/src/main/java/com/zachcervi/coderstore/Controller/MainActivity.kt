@@ -1,7 +1,8 @@
-package com.zachcervi.coderstore
+package com.zachcervi.coderstore.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.zachcervi.coderstore.R
 
 class MainActivity : AppCompatActivity() {
 
